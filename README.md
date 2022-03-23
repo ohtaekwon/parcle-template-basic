@@ -1,3 +1,4 @@
+
 ## RESET.CSS
 
 #### [더 알아보기](https://www.jsdelivr.com/package/npm/reset-css)
@@ -119,3 +120,21 @@ module.exports = {
     ```
 - 이제 `async` , `await` 문법이 사용가능해진다.
 - 비동기 문법이 실행이 된다.
+
+## parcel
+
+##### [더 알아보기](https://ko.parceljs.org/)
+
+
+## 커맨드 라인 인터페이스(CLI)
+
+#### [더 알아보기](https://ko.parceljs.org/cli.html)
+
+### 빠른 모듈 교체(HMR, Hot Module Replacement)
+
+- 런타임에 페이지 새로고침 없이 수정된 내용을 자동으로 갱신하는 방식을 말한다.
+
+
+### 파일 시스템 캐시 비활성화
+
+- 같이 사용 가능한 명령어 : `serve` ,`watch` , `build`
